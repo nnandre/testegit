@@ -1,2 +1,2 @@
 # testegit
-uM teste para passar para as turmas do IFPR
+Um teste para passar para as turmas do IFPR
